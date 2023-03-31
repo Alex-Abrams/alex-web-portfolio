@@ -28,7 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem "better_errors"
-gem "binding of caller"
+gem "binding_of_caller"
 gem "annotate"
 gem "bcrypt"
 gem "jquery-rails"
